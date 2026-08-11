@@ -1,0 +1,8 @@
+# Example banned words / phrases (one per line)
+spamlink
+followforfollow
+badword1
+badword2
+advertisement
+nsfw
+offtopic
