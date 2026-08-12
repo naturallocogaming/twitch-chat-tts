@@ -600,11 +600,12 @@ I'm sensitive.
 
 I built this project as part of a video documenting the process:
 
-**[YouTube video]** `https://www.youtube.com/watch?v=7dhll_8mwXY`
+**YouTube video** `https://www.youtube.com/watch?v=7dhll_8mwXY`
 
 Want to see it in action?
 
 **Twitch:** `https://twitch.tv/naturalloco`
+
 ---
 
 # 📜 License
