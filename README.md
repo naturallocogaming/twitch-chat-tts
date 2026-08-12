@@ -596,18 +596,6 @@ I'm sensitive.
 
 ---
 
-🎬 Watch the video
-
-I built this project as part of a video documenting the process:
-
-**YouTube video** `https://www.youtube.com/watch?v=7dhll_8mwXY`
-
-Want to see it in action?
-
-**Twitch:** `https://twitch.tv/naturalloco`
-
----
-
 # 📜 License
 
 This project is released under the **MIT License**.
@@ -646,6 +634,8 @@ Now Chat can yell at me **with a voice.**
 
 This project was originally created as part of a video about building a Twitch Chat TTS system from scratch with PowerShell.
 
+**YouTube video** `https://www.youtube.com/watch?v=7dhll_8mwXY`
+
 If you're here because you watched the video:
 
 **Hi.**
@@ -657,3 +647,7 @@ Yes, this is actually how I spend my free time.
 No, I don't understand why either.
 
 **K thanks bye.**
+
+Want to see it in action?
+
+**Twitch:** `https://twitch.tv/naturalloco`
