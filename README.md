@@ -596,6 +596,17 @@ I'm sensitive.
 
 ---
 
+🎬 Watch the video
+
+I built this project as part of a video documenting the process:
+
+**[YouTube video]** `https://www.youtube.com/watch?v=7dhll_8mwXY`
+
+Want to see it in action?
+
+**Twitch:** `https://twitch.tv/naturalloco`
+---
+
 # 📜 License
 
 This project is released under the **MIT License**.
